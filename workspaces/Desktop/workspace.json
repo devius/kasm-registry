@@ -1,6 +1,6 @@
 {
   "description": "Desktop Setup Test.",
-  "docker_registry": "https://index.ghcr.io/v1/",
+  "docker_registry": "https://ghcr.io/v2/",
   "image_src": "ubuntu-xfce.png",
   "name": "devius/kasm:latest",
   "run_config": {
