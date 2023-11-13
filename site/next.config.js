@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Serveradmin.ge',
+    description: 'Serveradmin,ge Kasm Repository.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://kasm-registry.serveradmin.ge/',
+    contactUrl: 'https://serveradmin.ge/',
   },
   reactStrictMode: true,
   swcMinify: true,
