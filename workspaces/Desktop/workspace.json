@@ -2,7 +2,7 @@
   "description": "Desktop Setup Test.",
   "docker_registry": "https://index.ghcr.io/v1/",
   "image_src": "ubuntu-xfce.png",
-  "name": "devius/kasm-ubuntu-serveradmin:latest",
+  "name": "devius/kasm:latest",
   "run_config": {
     "hostname": "kasm"
   },
